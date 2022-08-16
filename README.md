@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abinsonsuresh
 - 👀 I’m interested in Web Development and UI UX Designing
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on UI UX designing
 - 📫 How to reach me : abinsonsuresh@gmail.com
 
