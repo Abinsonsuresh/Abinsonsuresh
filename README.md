@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abinsonsuresh
 - 👀 I’m interested in Web Development and UI UX Designing
-- 💞️ I’m looking to collaborate on UI UX designing
+- 💞️ I’m looking to collaborate on Web development and UI UX designing
 - 📫 How to reach me : abinsonsuresh@gmail.com
 
 <!---
