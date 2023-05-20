@@ -3,12 +3,13 @@
 
 
 <!-- <img src=""> -->
-<img align="center" src="https://tenor.com/bV9He.gif">
+<!-- <img align="center" src="https://tenor.com/bV9He.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinsonsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="abinsonsuresh" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinsonsuresh" alt="abinsonsuresh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinsonsuresh" alt="abinsonsuresh" /></a> </p> -->
 
 - 🌱 I’m currently learning **Full stack web development**
 
@@ -201,6 +202,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinsonsuresh&show_icons=true&locale=en" alt="abinsonsuresh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinsonsuresh&" alt="abinsonsuresh" /></p>
+
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abinsonsuresh&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](abinsonsuresh)
+<br/>
+
 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abinsonsuresh&theme=github-compact)](https://github.com/abinsonsuresh/github-readme-activity-graph)
