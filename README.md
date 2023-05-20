@@ -39,7 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinsonsuresh&" alt="abinsonsuresh" /></p>
 
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liginthomasck&theme=github-compact)](https://github.com/liginthomasck/github-readme-activity-graph)
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abinsonsuresh&theme=github-compact)](https://github.com/abinsonsuresh/github-readme-activity-graph)
 <br/>
 
 <!---
