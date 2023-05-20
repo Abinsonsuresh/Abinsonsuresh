@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abinson Suresh</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F1F700&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Abinson...;Web+developer...;React+Python+Cpp+Javascript...;Follow%2C+Fork%2C+Star+%26+Connect...+;Let's+Build+robust+and;scalable+web+applications...)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
