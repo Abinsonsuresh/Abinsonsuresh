@@ -199,8 +199,8 @@
 
 </p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinsonsuresh&show_icons=true&locale=en&layout=compact" alt="abinsonsuresh" /></p> -->
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+
+
 
 <br/>
 ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats
@@ -210,7 +210,7 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abinsonsuresh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
 <!-- <img src = "https://raw.githubusercontent.com/abinsonsuresh/abinsonsuresh/master/assets/codyfire.gif" width=300px /> -->
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinsonsuresh&show_icons=true&locale=en" alt="abinsonsuresh" /></p> -->
