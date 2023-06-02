@@ -227,9 +227,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=abinsonsuresh&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](abinsonsuresh)
 <br/>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![](https://github.com/Abinsonsuresh/Abinsonsuresh/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abinsonsuresh&theme=github-compact)](https://github.com/abinsonsuresh/github-readme-activity-graph) -->
