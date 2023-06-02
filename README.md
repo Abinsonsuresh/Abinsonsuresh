@@ -24,6 +24,13 @@
 
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
+![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&layout=compact)](https://github.com/Abinsonsuresh/github-readme-stats)
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abinsonsuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinsonsuresh" height="30" width="60" /></a>
@@ -63,12 +70,7 @@
 <br/>
 <!-- ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats -->
 
-![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&layout=compact)](https://github.com/Abinsonsuresh/github-readme-stats)
-<br/>
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight&border_radius=9.8)](https://git.io/streak-stats) -->
