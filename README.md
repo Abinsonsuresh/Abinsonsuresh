@@ -206,7 +206,10 @@
 <!-- ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats -->
 
 ![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=gruvbox)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&layout=compact)](https://github.com/Abinsonsuresh/github-readme-stats)
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
