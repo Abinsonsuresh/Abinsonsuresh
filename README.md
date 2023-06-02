@@ -205,14 +205,15 @@
 <br/>
 <!-- ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats -->
 
-![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=gruvbox)
+![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight)
 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&layout=compact)](https://github.com/Abinsonsuresh/github-readme-stats)
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=transparent&border_radius=9.8)](https://git.io/streak-stats)
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinsonsuresh&show_icons=true&locale=en" alt="abinsonsuresh" /></p> -->
@@ -225,6 +226,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=abinsonsuresh&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](abinsonsuresh)
 <br/>
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![](https://github.com/Abinsonsuresh/Abinsonsuresh/blob/output/github-contribution-grid-snake.svg)
 <!-- 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abinsonsuresh&theme=github-compact)](https://github.com/abinsonsuresh/github-readme-activity-graph) -->
