@@ -206,7 +206,6 @@
 <!-- ### <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="25px">  GitHub Stats -->
 
 ![Abinson's github stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-<br/>
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <br/>
 
