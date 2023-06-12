@@ -24,7 +24,8 @@
 
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
-![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight)
+<!-- ![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight-duo&border_radius=9.8)](https://git.io/streak-stats)
 
 <br/>
 
@@ -74,7 +75,7 @@
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinsonsuresh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight&border_radius=9.8)](https://git.io/streak-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight-duo&border_radius=9.8)](https://git.io/streak-stats)
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinsonsuresh&show_icons=true&locale=en" alt="abinsonsuresh" /></p> -->
