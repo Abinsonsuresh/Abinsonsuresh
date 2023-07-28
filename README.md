@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abinsonsuresh](https://github.com/Abinsonsuresh)
 
-- 💬 Ask me about **React, Python, front end development**
+- 💬 Ask me about **React.js, Python, Front-End Development**
 
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
