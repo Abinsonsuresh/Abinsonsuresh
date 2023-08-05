@@ -8,8 +8,7 @@
 <!-- <img src=""> -->
 <!-- <img align="center" src="https://tenor.com/bV9He.gif"> -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinsonsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="abinsonsuresh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinsonsuresh7&style=for-the-badge&color=0891b2&labelColor=000000"" alt="abinsonsuresh" /> </p>
 <br>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinsonsuresh" alt="abinsonsuresh" /></a> </p> -->
@@ -87,6 +86,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abinsonsuresh&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](abinsonsuresh)
 <br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abinsonsuresh&theme=default"/>
+</p>
 
 <!-- 
 ### 📈 GitHub Activity Graph:
