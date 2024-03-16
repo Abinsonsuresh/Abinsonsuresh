@@ -27,7 +27,7 @@ Full Stack Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinsonsuresh&layout=compact)](https://github.com/Abinsonsuresh/github-readme-stats)
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight-duo&border_radius=9.8)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight-duo&border_radius=9.8)](https://git.io/streak-stats) -->
 
 <br/>
 
