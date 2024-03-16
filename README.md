@@ -8,23 +8,20 @@
 <!-- <img src=""> -->
 <!-- <img align="center" src="https://tenor.com/bV9He.gif"> -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinsonsuresh&label=Profile%20views&color=0e75b6&style=flat" alt="abinsonsuresh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinsonsuresh7&style=for-the-badge&color=0891b2&labelColor=000000"" alt="abinsonsuresh" /> </p>
 <br>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinsonsuresh" alt="abinsonsuresh" /></a> </p> -->
 
-- 🌱 I’m currently learning **Full stack web development**
+Full Stack Developer
+- 👨‍💻 All of my projects are available at [https://abinsonsuresh.vercel.app/]
 
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abinsonsuresh](https://github.com/Abinsonsuresh)
-
-- 💬 Ask me about **React, Python, front end development**
+- 💬 Ask me about **React.js, Node js, Mongo DB, Python, Full Stack Development**
 
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
-![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight)
+<!-- ![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinsonsuresh&border_radius=14)](https://git.io/streak-stats)
 
 <br/>
 
@@ -39,13 +36,17 @@
 <p align="left">
   <a href="https://linkedin.com/in/abinsonsuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinsonsuresh" height="30" width="60" /></a>
   <a href="https://instagram.com/abindesignz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abindesignz" height="30" width="60" /></a>
-  <a href="https://www.hackerrank.com/abinsonsuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abinsonsuresh" height="30" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abinson" height="30" width="60" /></a>
+<a href="https://twitter.com/abinsonsuresh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="abinson" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express js" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
@@ -62,8 +63,8 @@
 <br/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="vscode" width="45" height="45"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="vscode" width="45" height="45"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45"/>  
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="vscode" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="vscode" width="45" height="45"/>  
   
   
 </p>
@@ -80,6 +81,7 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abinsonsuresh&theme=tokyonight&border_radius=9.8)](https://git.io/streak-stats) -->
 
 
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinsonsuresh&show_icons=true&locale=en" alt="abinsonsuresh" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinsonsuresh&" alt="abinsonsuresh" /></p> -->
@@ -90,6 +92,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=abinsonsuresh&theme=juicyfresh&no-frame=true&margin-w=5&margin-h=5&column=7&row=1&no-bg=true)](abinsonsuresh)
 <br/>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abinsonsuresh&theme=default"/>
+</p>
+
 <!-- 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abinsonsuresh&theme=github-compact)](https://github.com/abinsonsuresh/github-readme-activity-graph) -->
@@ -99,5 +105,5 @@
 
 <!---
 Abinsonsuresh/Abinsonsuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 --->
