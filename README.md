@@ -16,7 +16,7 @@
 Full Stack Developer
 - 👨‍💻 All of my projects are available at [https://abinsonsuresh.vercel.app/]
 
-- 💬 Ask me about **React.js, Node js, Mongo DB, Python, Full Stack Development**
+- 💬 Ask me about **Next JS, React JS, Node js, Mongo DB, Python, Full Stack Development**
 
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
