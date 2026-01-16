@@ -21,7 +21,7 @@ Full Stack Developer
 - 📫 How to reach me **abinsonsuresh@gmail.com**
 
 <!-- ![Abinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinsonsuresh&show_icons=true&theme=tokyonight) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinsonsuresh&border_radius=14)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abinsonsuresh&theme=earth)](https://git.io/streak-stats)
 
 <br/>
 
